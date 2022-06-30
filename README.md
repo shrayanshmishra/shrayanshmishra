@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Shrayansh Mishra</h1>
+<h1 align="center">Hi, I'm Shrayansh Mishra</h1>
 <h3 align="center">A passionate Student and a Problem Solver.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrayanshmishra&label=Profile%20views&color=0e75b6&style=flat" alt="shrayanshmishra" /> </p>
@@ -11,9 +11,9 @@
 
 - 📝 I regularly Solve Problems @ [https://www.hackerrank.com/Shrayansh_Mishra?hr_r=1](https://www.hackerrank.com/Shrayansh_Mishra?hr_r=1)
 
-- 💬 Ask me about **Java,C,Python,Data Structures,Algorithms**
+- 💬 Ask me about **Java, C, Python, Data Structures, Algorithms**
 
-- 📫 How to reach me **nasaankit01@gmail.com**
+- 📫 How to reach me **shreyanshmishra477@gmail.com**
 
 - ⚡ Fun fact **I am a programmer.**
 
