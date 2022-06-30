@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shreyanshmishra477@gmail.com**
 
-- ⚡ Fun fact **I am a programmer.**
+<!--- - ⚡ Fun fact **I am a programmer.** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
