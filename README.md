@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a student at Lovely Professional University, Phagwara, Punjab, India
 
-- 👨‍💻 All of my projects are available at [https://github.com/shrayanshmishra](https://github.com/shrayanshmishra)
+<!--- - 👨‍💻 All of my projects are available at [https://github.com/shrayanshmishra](https://github.com/shrayanshmishra) -->
 
 - 📝 I regularly Solve Problems [https://www.hackerrank.com/Shrayansh_Mishra?hr_r=1](https://www.hackerrank.com/Shrayansh_Mishra?hr_r=1)
 
