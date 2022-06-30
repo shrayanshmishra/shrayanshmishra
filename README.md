@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Shrayansh Mishra</h1>
-<h3 align="center">A passionate student and a problem solver.</h3>
+<h3 align="center">A passionate student and a regular problem solver.</h3>
 
 <p align="left"> <a href="https://twitter.com/s_hrayansh____m" target="blank"><img src="https://img.shields.io/twitter/follow/s_hrayansh____m?logo=twitter&style=for-the-badge" alt="s_hrayansh____m" /></a> </p>
 
-- 🔭 I’m currently a student at Lovely Professional University, Phagwara, Punjab, India
+- 🔭 I’m currently a student at **Lovely Professional University, Phagwara, Punjab, India**
 
 <!--- - 👨‍💻 All of my projects are available at [https://github.com/shrayanshmishra](https://github.com/shrayanshmishra) -->
 
-- 📝 I regularly Solve Problems, here's my HackerRank profile: [https://www.hackerrank.com/Shrayansh_Mishra?hr_r=1](https://www.hackerrank.com/Shrayansh_Mishra?hr_r=1)
+- 📝 I regularly solve problems, here's my HackerRank profile: [https://www.hackerrank.com/Shrayansh_Mishra?hr_r=1](https://www.hackerrank.com/Shrayansh_Mishra?hr_r=1)
 
-- 💬 Ask me about **Java, C, Python, Data Structures, Algorithms**
+- 💬 Ask me about **Java, C, C++, Python, Data Structures, Algorithms**
 
 - 📫 How to reach me **shreyanshmishra477@gmail.com**
 
