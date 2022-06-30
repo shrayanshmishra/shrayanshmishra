@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/s_hrayansh____m" target="blank"><img src="https://img.shields.io/twitter/follow/s_hrayansh____m?logo=twitter&style=for-the-badge" alt="s_hrayansh____m" /></a> </p>
 
-- 🔭 I’m currently a student at Lovely Professional University, Phagwara, Punjab, 🇮🇳
+- 🔭 I’m currently a student at Lovely Professional University, Phagwara, Punjab, India
 
 - 👨‍💻 All of my projects are available at [https://github.com/shrayanshmishra](https://github.com/shrayanshmishra)
 
