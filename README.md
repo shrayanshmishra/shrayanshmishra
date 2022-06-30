@@ -9,7 +9,7 @@
 
 - 📝 I regularly solve problems, here's my HackerRank profile: [https://www.hackerrank.com/Shrayansh_Mishra?hr_r=1](https://www.hackerrank.com/Shrayansh_Mishra?hr_r=1)
 
-- 💬 Ask me about **Java, C, C++, Python, Data Structures, Algorithms**
+<!--- - 💬 Ask me about **Java, C, C++, Python, Data Structures, Algorithms** -->
 
 - 📫 How to reach me **shreyanshmishra477@gmail.com**
 
